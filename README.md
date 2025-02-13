@@ -30,5 +30,6 @@ By implementing the recommended strategies, the supermarket can optimize operati
 
 # Performance Comparison
 The total sales amount for 2024 was 35,800, which is a decrease from the 2023 total sales amount of 42,142. Therefore, the 2024 performance remark is "Sales Decreased".
+At every point in time when the data is updated, the same is reflected on the analysis.
 
 # Project File Link: [https://docs.google.com/spreadsheets/d/1FNu0FLjindxNN3Sn_oUUwZ6OkiRw4puePTGKMr8vAtk/edit?usp=sharing]
